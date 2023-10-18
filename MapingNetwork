@@ -1,5 +1,6 @@
+"net use U: \\192.168.7.17\Aeon_PH\Aeon_4c"
 "net use V: \\192.168.7.17\Doramori_Kumihan"
 "net use W: \\192.168.7.17\Takami_PH\Takami_PH"
-"net use X: \\192.168.7.17\Aeon_PH\Aeon_PH"
+"net use X: \\192.168.7.17\Aeon_PH\Aeon_mk"
 "net use Y: \\192.168.7.17\Marutaka_PH\Marutaka_PH"
 "net use Z: \\192.168.7.17\SuperKid_PH\SuperKid_PH"
