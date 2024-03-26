@@ -1,3 +1,4 @@
+"net use T: \\192.168.7.17\MVToukai_PH\MVToukai"
 "net use U: \\192.168.7.17\Aeon_PH\Aeon_4c"
 "net use V: \\192.168.7.17\Doramori_Kumihan"
 "net use W: \\192.168.7.17\Takami_PH\Takami_PH"
